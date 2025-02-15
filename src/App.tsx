@@ -27,7 +27,7 @@ function App() {
               <a href="#features" className="text-gray-300 hover:text-white transition-colors">Features</a>
               <a href="#demo" className="text-gray-300 hover:text-white transition-colors">Demo</a>
               <a href="#pricing" className="text-gray-300 hover:text-white transition-colors">Pricing</a>
-              <a href="https://scriptify-lake.vercel.app/">
+              <a href="https://scriptify-b.vercel.app/">
                 <button 
                   className="px-4 py-2 text-sm font-medium bg-gradient-to-r from-purple-500 to-pink-600 rounded-lg hover:from-purple-600 hover:to-pink-700 transition-all duration-300 shadow-lg shadow-purple-500/25"
                 >
