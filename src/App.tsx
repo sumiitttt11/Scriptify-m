@@ -92,7 +92,7 @@ function App() {
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <a 
-                href="https://scriptify-lake.vercel.app/" 
+                href="https://scriptify-f.vercel.app/" 
                 className="px-8 py-4 text-lg font-medium bg-gradient-to-r from-purple-500 to-pink-600 rounded-lg hover:from-purple-600 hover:to-pink-700 transition-all duration-300 shadow-lg shadow-purple-500/25 w-full sm:w-auto flex items-center justify-center"
               >
                 Get Started Free
